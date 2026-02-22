@@ -1,0 +1,6 @@
+/sitecrawl
+out/
+tmp/
+dist/
+coverage.out
+.DS_Store
