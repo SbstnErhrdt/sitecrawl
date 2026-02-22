@@ -1,0 +1,4 @@
+version: 1
+display_name: Sitecrawl
+short_description: Crawl one domain and produce clean page files plus report metadata.
+default_prompt: Crawl a domain with sitecrawl, save results to an output directory, and summarize report.json with top pages and metadata quality.
